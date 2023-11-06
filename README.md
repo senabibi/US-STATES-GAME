@@ -11,7 +11,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/senabibi/Us_State_Game">
-    <img src="images/logo.png" alt="Logo" width="1000" height="800">
+    <img src="images/logo.png" alt="Logo" width="800" height="400">
   </a>
 
 <h3 align="center">Us State Game </h3>
